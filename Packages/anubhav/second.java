@@ -1,5 +1,4 @@
 package anubhav;
-// import anmol.first;
 import anmol.innerFirstAccess;
 public class second {
     public static void main(String[] args) {
